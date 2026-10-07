@@ -206,7 +206,8 @@ Techniques:
 ## Author
 
 Senior Analytics Professional
- 
+
+ 
 Skills:
 - SAS
 - SQL
