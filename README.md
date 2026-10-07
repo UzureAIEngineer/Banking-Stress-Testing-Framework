@@ -95,6 +95,18 @@ Management wants to understand how portfolio performance will change under adver
 - Capital Adequacy Impact
 - Portfolio Concentration Risk
 
+## Business KPIs Monitored
+ 
+- Total Portfolio Exposure
+- Expected Loss
+- Stressed Expected Loss
+- Default Rate
+- Delinquency Ratio
+- Risk Segment Distribution
+- Product-wise Risk Contribution
+- Regulatory Capital Impact
+
+
 ## Sample Data Sources
  
 The project uses representative banking datasets including:
