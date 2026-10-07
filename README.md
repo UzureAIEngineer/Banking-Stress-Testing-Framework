@@ -201,3 +201,23 @@ Techniques:
 - Scorecards
 - Time Series Analysis
 - Statistical Risk Models
+
+
+## Author
+
+Senior Analytics Professional
+ 
+Skills:
+- SAS
+- SQL
+- Banking Analytics
+- Risk Analytics
+- Business Analysis
+- Statistical Modeling
+- Azure AI (Learning Path)
+- Generative AI (Learning Path)
+
+- ### Disclaimer
+ 
+This repository is intended for educational, portfolio, and demonstration purposes.
+Show more lines
