@@ -7,20 +7,6 @@ This project demonstrates an end-to-end Banking Stress Testing Framework designe
 The project showcases a practical banking risk analytics use case using SAS, SQL, Python, and statistical modeling techniques commonly employed by financial institutions for internal risk management and regulatory reporting.
  
 ---
-## Project Roadmap
- 
-Current Phase:
-- Repository Setup
-- Documentation Creation
-- Data Dictionary Development
- 
-Upcoming Enhancements:
-- SAS Stress Testing Models
-- SQL Portfolio Analysis
-- Python Model Validation
-- Power BI Dashboards
-- Scenario Comparison Reporting
-
  
 ## Business Problem
  
@@ -51,7 +37,21 @@ The primary objectives of this project are:
 - Demonstrate an end-to-end banking analytics workflow.
  
 ---
+## Project Roadmap
  
+Current Phase:
+- Repository Setup
+- Documentation Creation
+- Data Dictionary Development
+ 
+Upcoming Enhancements:
+- SAS Stress Testing Models
+- SQL Portfolio Analysis
+- Python Model Validation
+- Power BI Dashboards
+- Scenario Comparison Reporting
+
+ 
 ## Regulatory Context
  
 Stress testing has become an essential risk management practice for banks worldwide.
