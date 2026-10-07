@@ -69,16 +69,15 @@ Management wants to understand how portfolio performance will change under adver
 ---
 
 ### Analytics & Development Tools
- 
-- SAS (Primary Modeling and Reporting Platform)
+ - SAS (Primary Modeling and Reporting Platform)
 - SQL (Data Extraction and Validation)
 - Python (Future Enhancement and Model Comparison)
 - Microsoft Excel
 - Power BI
+
  
 ### Statistical Techniques
- 
-- Logistic Regression
+ - Logistic Regression
 - Scenario Analysis
 - Sensitivity Analysis
 - Portfolio Segmentation
@@ -86,10 +85,8 @@ Management wants to understand how portfolio performance will change under adver
 
 
 ## Key Risk Metrics
- 
-The framework evaluates the impact of economic stress on:
- 
-- Probability of Default (PD)
+ The framework evaluates the impact of economic stress on:
+ - Probability of Default (PD)
 - Loss Given Default (LGD)
 - Exposure at Default (EAD)
 - Expected Loss (EL)
@@ -98,10 +95,23 @@ The framework evaluates the impact of economic stress on:
 - Capital Adequacy Impact
 - Portfolio Concentration Risk
 
+## Sample Data Sources
+ 
+The project uses representative banking datasets including:
+ 
+- Customer Master Data
+- Loan Portfolio Data
+- Repayment History
+- Delinquency Information
+- Credit Scores
+- Macroeconomic Indicators
+ 
+Sample files and layouts are available within the data folder.
+Show more lines
+
  
 ## Stress Testing Methodology
- 
-### Step 1: Portfolio Data Preparation
+ ### Step 1: Portfolio Data Preparation
  
 Customer and loan information are collected from multiple source systems.
  
