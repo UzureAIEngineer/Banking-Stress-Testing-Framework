@@ -1,5 +1,8 @@
+Executive Summary
 Business Problem
-Objective
-Solution Approach
-Technologies Used
-Expected Benefits
+Objectives
+Methodology
+Technology Stack
+Project Structure
+Sample Outputs
+Future Enhancements
