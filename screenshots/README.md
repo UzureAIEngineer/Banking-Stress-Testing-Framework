@@ -1,1 +1,3 @@
-
+Dashboard screenshots
+Charts
+Architecture images
