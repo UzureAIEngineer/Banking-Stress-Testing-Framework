@@ -67,6 +67,22 @@ A retail bank maintains a portfolio containing:
 Management wants to understand how portfolio performance will change under adverse economic conditions and whether existing capital reserves are sufficient to absorb future losses.
  
 ---
+
+### Analytics & Development Tools
+ 
+- SAS (Primary Modeling and Reporting Platform)
+- SQL (Data Extraction and Validation)
+- Python (Future Enhancement and Model Comparison)
+- Microsoft Excel
+- Power BI
+ 
+### Statistical Techniques
+ 
+- Logistic Regression
+- Scenario Analysis
+- Sensitivity Analysis
+- Portfolio Segmentation
+- Risk Quantification
  
 ## Stress Testing Methodology
  
