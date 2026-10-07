@@ -83,7 +83,22 @@ Management wants to understand how portfolio performance will change under adver
 - Sensitivity Analysis
 - Portfolio Segmentation
 - Risk Quantification
+
+
+## Key Risk Metrics
  
+The framework evaluates the impact of economic stress on:
+ 
+- Probability of Default (PD)
+- Loss Given Default (LGD)
+- Exposure at Default (EAD)
+- Expected Loss (EL)
+- Non-Performing Assets (NPA)
+- Delinquency Rates
+- Capital Adequacy Impact
+- Portfolio Concentration Risk
+
+ 
 ## Stress Testing Methodology
  
 ### Step 1: Portfolio Data Preparation
