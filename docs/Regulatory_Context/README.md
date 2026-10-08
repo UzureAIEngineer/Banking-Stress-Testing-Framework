@@ -2,6 +2,7 @@ Regulatory Context
 
 
 Introduction
+
 Stress testing has become an essential component of modern banking risk management and regulatory compliance frameworks.
 
 Financial institutions are required to assess the impact of adverse economic conditions on their portfolios and ensure sufficient capital reserves are maintained to withstand periods of financial stress.
@@ -9,6 +10,7 @@ Financial institutions are required to assess the impact of adverse economic con
 This document outlines the key regulatory frameworks and industry practices relevant to banking stress testing.
 
 Why Regulators Require Stress Testing
+
 Regulators require banks to perform stress testing to:
 
 Assess portfolio resilience
