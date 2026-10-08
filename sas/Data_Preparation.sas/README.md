@@ -39,13 +39,41 @@ run;
 
  
 data portfolio_clean;
-set portfolio_raw;
+    set portfolio_raw;
 
- 
-if credit_score=. then credit_score=700;
-if current_dpd=. then current_dpd=0;
+    if missing(credit_score)
+       and not missing(previous_credit_score)
+    then credit_score = previous_credit_score;
+
 run;
 
+
+/* Missing DPD Handling */
+
+/* Missing DPD values should preferably be recalculated
+   using due date and reporting date.
+   Historical DPD values may be used if recalculation
+   is not possible.
+*/
+
+/* Preferred Approach:
+   Recalculate DPD from payment due dates
+*/
+
+if missing(current_dpd) then
+   current_dpd = report_date - due_date;
+   
+/*If due dates are unavailable*/
+
+
+if missing(current_dpd)
+   and not missing(previous_dpd)
+then current_dpd = previous_dpd;
+
+
+/*If neither available*/
+
+dpd_missing_flag='Y';
 
  
 /* Step 4 - Customer Risk Segmentation */
