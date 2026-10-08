@@ -1,8 +1,11 @@
 Business Problem Statement
+
 Project Title
+
 Banking Stress Testing Framework
 
 Background
+
 Financial institutions operate in dynamic economic environments where adverse macroeconomic conditions can significantly impact the credit quality of loan portfolios.
 
 Events such as:
