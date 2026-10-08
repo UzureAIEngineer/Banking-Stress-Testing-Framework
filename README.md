@@ -62,6 +62,8 @@ Common regulatory frameworks include:
 - IFRS 9
 - CCAR (Comprehensive Capital Analysis and Review)
 - ICAAP (Internal Capital Adequacy Assessment Process)
+- CCAR (Comprehensive Capital Analysis and Review)
+- CECL (Current Expected Credit Loss)
 - Stress Testing Guidelines issued by central banks
  
 The framework developed in this project reflects common industry practices used for risk assessment and capital planning.
