@@ -1,10 +1,19 @@
+
 /************************************************************************/
+
 /* Project: Banking Stress Testing Framework */
+
 /* Program: Data_Preparation.sas */
+
 /* Purpose: Prepare portfolio data for stress testing analysis */
+
 /************************************************************************/
- 
+
+
+
+ 
 /* Step 1 - Import Portfolio Data */
+
  
 proc import
 datafile="portfolio_data.csv"
@@ -13,24 +22,31 @@ dbms=csv
 replace;
 guessingrows=max;
 run;
- 
+
+ 
 /* Step 2 - Data Validation */
+
  
 proc contents data=portfolio_raw;
 run;
+
  
 proc means data=portfolio_raw n nmiss min max mean;
 run;
- 
+
+ 
 /* Step 3 - Missing Value Treatment */
+
  
 data portfolio_clean;
 set portfolio_raw;
- 
+
+ 
 if credit_score=. then credit_score=700;
 if current_dpd=. then current_dpd=0;
 run;
- 
+
+ 
 /* Step 4 - Customer Risk Segmentation */
  
 data portfolio_segmented;
