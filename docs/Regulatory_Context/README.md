@@ -1,4 +1,6 @@
 Regulatory Context
+
+
 Introduction
 Stress testing has become an essential component of modern banking risk management and regulatory compliance frameworks.
 
