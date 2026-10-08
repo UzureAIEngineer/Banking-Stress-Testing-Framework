@@ -83,15 +83,37 @@ Credit Risk Analysis
 Capital Adequacy Assessment
 Portfolio Stress Testing
 Scenario-Based Risk Evaluation
+
+Relationship Between Stress Testing and Expected Credit Loss Frameworks
+
+Stress testing and Expected Credit Loss (ECL) estimation are closely related processes within banking risk management.
+
+Macroeconomic scenarios generated through stress testing are frequently incorporated into:
+
+IFRS 9 ECL calculations
+CECL forecasting models
+Capital adequacy assessments
+Portfolio risk monitoring
+Changes in economic variables such as GDP growth, unemployment, inflation and interest rates influence:
+
+Probability of Default (PD)
+Loss Given Default (LGD)
+Exposure at Default (EAD)
+which ultimately impact expected credit loss calculations
+
 Common Stress Testing Scenarios
+
 Baseline Scenario
 Normal economic growth assumptions.
 
 Mild Stress Scenario
+
 Moderate GDP decline
 Rising inflation
 Slight increase in unemployment
+
 Severe Stress Scenario
+
 Significant economic recession
 Sharp increase in unemployment
 Reduced consumer spending
