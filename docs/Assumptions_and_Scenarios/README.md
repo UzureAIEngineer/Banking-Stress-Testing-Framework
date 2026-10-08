@@ -61,9 +61,13 @@ Stress testing is performed over a predefined forecast horizon.
 
 Typical examples include:
 
+
 12 Months
+
 24 Months
+
 36 Months
+
 The horizon selected depends on:
 
 Regulatory requirements
