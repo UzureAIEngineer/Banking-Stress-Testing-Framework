@@ -90,5 +90,6 @@ Better capital planning
 Early warning identification
 Enhanced regulatory compliance
 More informed strategic decision-making
+
 Conclusion
 Stress testing enables financial institutions to proactively assess the resilience of their portfolios and prepare for adverse economic conditions. This framework serves as a structured analytical solution to support risk management and business decision-making.
