@@ -126,8 +126,11 @@ run;
 
 
 proc print data=stress_factors;
+
     title "Scenario Stress Multipliers";
+    
 run;
+
 
 
 
@@ -142,7 +145,9 @@ run;
 
 proc sql;
 
+
 create table scenario_framework as
+
 
 select
     a.scenario_name,
@@ -154,12 +159,15 @@ select
     b.pd_factor,
     b.lgd_factor,
     b.ead_factor
+    
 
 from economic_scenarios a
 left join stress_factors b
 on a.scenario_name = b.scenario_name;
 
+
 quit;
+
 
 
 
@@ -174,8 +182,12 @@ quit;
 
 proc print data=scenario_framework;
 
+
     title "Integrated Stress Testing Scenario Framework";
     
+    
 run;
+
+
 
 
