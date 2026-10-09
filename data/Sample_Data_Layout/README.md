@@ -176,6 +176,56 @@ The datasets support generation of:
 
 ---
 
+
+# Sample Dataset
+
+
+## Synthetic Banking Portfolio Dataset
+
+
+This folder contains a synthetic banking portfolio dataset developed for demonstrating stress testing, credit risk analytics, and expected credit loss calculations.
+
+
+### File
+
+
+- portfolio_sample_10000.csv
+- 
+
+### Dataset Characteristics
+
+
+- 10,000 customer records
+- Retail, SME and Corporate segments
+- Mortgage, Auto Loan, Personal Loan, Credit Card, SME Loan and Corporate Loan products
+- Credit Scores
+- Current and Previous DPD
+- Outstanding Balances
+- Interest Rates
+- Collateral Values
+- Regional Information
+- Reporting Dates
+
+
+### Data Quality Testing
+
+
+The dataset intentionally includes:
+
+- Missing Credit Scores
+- Missing DPD Values
+- Missing Collateral Values
+
+to support data quality validation and exception handling scenarios.
+
+
+### Disclaimer
+
+
+This dataset is fully synthetic and created for educational and portfolio purposes only. It does not contain any real customer information.
+
+
+
 # Conclusion
 
 This sample data layout provides the foundation for stress testing, credit risk modeling, expected loss estimation, and regulatory reporting within the Banking Stress Testing Framework.
