@@ -124,9 +124,11 @@ run;
 
 
 
+
 proc print data=stress_factors;
     title "Scenario Stress Multipliers";
 run;
+
 
 
 /*---------------------------------------------------------------------*/
@@ -134,6 +136,7 @@ run;
 /* Step 5 - Create Combined Scenario Framework                         */
 
 /*---------------------------------------------------------------------*/
+
 
 
 
@@ -159,6 +162,7 @@ on a.scenario_name = b.scenario_name;
 quit;
 
 
+
 /*---------------------------------------------------------------------*/
 
 /* Step 6 - Final Review                                                */
@@ -167,8 +171,11 @@ quit;
 
 
 
+
 proc print data=scenario_framework;
 
     title "Integrated Stress Testing Scenario Framework";
     
 run;
+
+
