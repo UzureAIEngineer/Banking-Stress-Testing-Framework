@@ -235,19 +235,53 @@ quit;
 /*---------------------------------------------------------------------*/
 
 
+
+/*Scenario wise comparison*/
+
+
 proc means data=portfolio_ecl_results
-           n nmiss mean median min max;
+
+           n
+           nmiss
+           mean
+           median
+           std
+           min
+           p25
+           p75
+           max;
+           
+
+class scenario_name;
+
 
 var
 
-    outstanding_balance
     base_pd
     stressed_pd
     base_lgd
     stressed_lgd
     baseline_ecl
     stressed_ecl;
+    
 
-title "Portfolio Validation Summary";
+title "Portfolio Validation Summary By Scenario";
+
 
 run;
+
+
+
+/*LGD Distribution By Scenario*/
+
+
+proc freq data=portfolio_ecl_results;
+
+tables scenario_name *
+       stressed_lgd_band
+       / missing;
+
+title "LGD Distribution By Scenario";
+
+run;
+
