@@ -275,6 +275,7 @@ run;
 /*LGD Distribution By Scenario*/
 
 
+
 proc freq data=portfolio_ecl_results;
 
 tables scenario_name *
@@ -283,5 +284,7 @@ tables scenario_name *
 
 title "LGD Distribution By Scenario";
 
+
 run;
+
 
