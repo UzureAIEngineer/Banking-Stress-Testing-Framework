@@ -200,24 +200,31 @@ select
     dpd_bucket,
 
     count(*) as account_count,
+    
 
     avg(stressed_pd)
         format=percent10.2
         as avg_stressed_pd,
 
+
     sum(stressed_ecl)
         format=comma18.2
         as total_stressed_ecl
 
+
 from portfolio_ecl_results
+
 
 group by scenario_name,
          dpd_bucket
+
 
 order by scenario_name,
          dpd_bucket;
 
 quit;
+
+
 
 
 
@@ -238,4 +245,9 @@ var
     stressed_pd
     base_lgd
     stressed_lgd
-    baseline_
+    baseline_ecl
+    stressed_ecl;
+
+title "Portfolio Validation Summary";
+
+run;
