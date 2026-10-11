@@ -253,8 +253,7 @@ The project uses representative banking datasets including:
 Sample files and layouts are available within the data folder.
 Show more lines
 
-```
- 
+``` 
 ## Stress Testing Methodology
 ``` 
  ### Step 1: Portfolio Data Preparation
