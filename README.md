@@ -366,7 +366,7 @@ PowerBI/Dashboard_Screenshots/
 ```
 
 ## Author
-
+```
 Senior Analytics Professional
 
  
@@ -380,7 +380,8 @@ Skills:
 - Azure AI (Learning Path)
 - Generative AI (Learning Path)
 
+```
 - ### Disclaimer
- 
+``` 
 This repository is intended for educational, portfolio, and demonstration purposes.
 
