@@ -256,7 +256,7 @@ Show more lines
 ```
  
 ## Stress Testing Methodology
- 
+``` 
  ### Step 1: Portfolio Data Preparation
  
 Customer and loan information are collected from multiple source systems.
