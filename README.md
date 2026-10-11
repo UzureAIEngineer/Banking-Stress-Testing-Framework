@@ -143,9 +143,9 @@ Power BI Dashboard
 ✅ segment_ecl_summary.csv
 
 ---
-```
+
 ### Upcoming Enhancements
-```
+
 #### Version 2
 
 - PostgreSQL Migration
