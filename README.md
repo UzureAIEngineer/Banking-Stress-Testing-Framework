@@ -212,8 +212,8 @@ Management wants to understand how portfolio performance will change under adver
 - Risk Quantification
 
 
-```
-```
+
+
 ## Key Risk Metrics
  The framework evaluates the impact of economic stress on:
  - Probability of Default (PD)
