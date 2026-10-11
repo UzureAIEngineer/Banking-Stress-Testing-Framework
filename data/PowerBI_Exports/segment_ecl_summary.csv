@@ -1,0 +1,10 @@
+Scenario_Name,Risk_Segment,Account_Count,Total_Exposure,Total_Stressed_ECL
+Baseline,High Risk,2485,"11,722,508,830.69","421,457,009.75"
+Baseline,Low Risk,2535,"12,361,206,972.85","89,081,151.02"
+Baseline,Medium Risk,4980,"23,498,190,993.45","419,433,118.28"
+Mild_Stress,High Risk,2485,"11,722,508,830.69","579,503,388.41"
+Mild_Stress,Low Risk,2535,"12,361,206,972.85","122,486,582.65"
+Mild_Stress,Medium Risk,4980,"23,498,190,993.45","576,720,537.63"
+Severe_Stress,High Risk,2485,"11,722,508,830.69","920,878,523.71"
+Severe_Stress,Low Risk,2535,"12,361,206,972.85","194,650,631.18"
+Severe_Stress,Medium Risk,4980,"23,498,190,993.45","916,425,056.12"
