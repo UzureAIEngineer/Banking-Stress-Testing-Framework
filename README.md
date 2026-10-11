@@ -35,21 +35,115 @@ The primary objectives of this project are:
 - Calculate stressed Expected Loss (EL).
 - Support risk management decision-making.
 - Demonstrate an end-to-end banking analytics workflow.
+
+
+- ## End-to-End Architecture
+
+
+Portfolio Input Data
+        ↓
+
+Input Validation
+        ↓
+
+Data Preparation
+        ↓
+
+Risk Segmentation
+        ↓
+
+Scenario Creation
+        ↓
+
+Scenario Application
+        ↓
+
+PD Stress Impact
+        ↓
+
+LGD Stress Impact
+        ↓
+
+ECL Calculation
+        ↓
+
+Portfolio Stress Reporting
+        ↓
+
+Power BI Export Layer
+        ↓
+
+Power BI Dashboard
+```
  
 ---
 ## Project Roadmap
  
-Current Phase:
-- Repository Setup
-- Documentation Creation
-- Data Dictionary Development
- 
-Upcoming Enhancements:
-- SAS Stress Testing Models
-- SQL Portfolio Analysis
-- Python Model Validation
-- Power BI Dashboards
-- Scenario Comparison Reporting
+## Current Project Status
+
+### Version 1 Completed ✅
+
+#### SAS Backend
+
+✅ Input Validation
+
+✅ Data Preparation
+
+✅ Risk Segmentation
+
+✅ Scenario Creation
+
+✅ Scenario Application
+
+✅ PD Stress Impact
+
+✅ LGD Stress Impact
+
+✅ ECL Calculation
+
+✅ Portfolio Stress Reporting
+
+---
+
+#### Power BI Dashboard
+
+✅ Executive Overview
+
+✅ Scenario Analysis
+
+✅ Product Risk Analysis
+
+✅ Risk Segment Analysis
+
+---
+
+#### Reporting Layer
+
+✅ ecl_summary.csv
+
+✅ product_ecl_summary.csv
+
+✅ segment_ecl_summary.csv
+
+---
+
+### Upcoming Enhancements
+
+#### Version 2
+
+- PostgreSQL Migration
+- SQL-Based Processing
+
+#### Version 3
+
+- Python Migration
+- Pandas Validation Framework
+
+#### Version 4
+
+- Azure AI Integration
+- Microsoft Fabric
+- Automated Risk Insights
 
  
 ## Regulatory Context
@@ -204,6 +298,49 @@ Techniques:
 - Time Series Analysis
 - Statistical Risk Models
 
+
+
+## Power BI Dashboard
+
+The Power BI Dashboard provides executive reporting and visualization for the Banking Stress Testing Framework.
+
+### Dashboard Pages
+
+#### Executive Overview
+
+- Total Exposure
+- Base ECL
+- Stressed ECL
+- Incremental Stress Loss
+
+#### Scenario Analysis
+
+- Baseline
+- Mild Stress
+- Severe Stress
+
+#### Product Risk Analysis
+
+- Corporate Loan
+- SME Loan
+- Mortgage
+- Auto Loan
+- Personal Loan
+- Credit Card
+
+#### Risk Segment Analysis
+
+- High Risk
+- Medium Risk
+- Low Risk
+
+### Dashboard Screenshots
+
+See:
+
+
+PowerBI/Dashboard_Screenshots/
+```
 
 ## Author
 
