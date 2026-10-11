@@ -37,40 +37,52 @@ The primary objectives of this project are:
 - Demonstrate an end-to-end banking analytics workflow.
 
 
-- ## End-to-End Architecture
+
+  ## End-to-End Architecture
 
 
 Portfolio Input Data
+
         ↓
 
 Input Validation
+
         ↓
 
 Data Preparation
+
         ↓
 
 Risk Segmentation
+
         ↓
 
 Scenario Creation
+
         ↓
 
 Scenario Application
+
         ↓
 
 PD Stress Impact
+
         ↓
 
 LGD Stress Impact
+
         ↓
 
 ECL Calculation
+
         ↓
 
 Portfolio Stress Reporting
+
         ↓
 
 Power BI Export Layer
+
         ↓
 
 Power BI Dashboard
