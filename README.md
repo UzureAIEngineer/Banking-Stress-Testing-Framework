@@ -164,7 +164,8 @@ Power BI Dashboard
 
  ```
 ## Regulatory Context
- 
+
+ ```
 Stress testing has become an essential risk management practice for banks worldwide.
  
 Common regulatory frameworks include:
