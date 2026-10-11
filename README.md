@@ -37,8 +37,9 @@ The primary objectives of this project are:
 - Demonstrate an end-to-end banking analytics workflow.
 
 
-
+```
 ## End-to-End Architecture
+
 
 
 Portfolio Input Data
@@ -87,7 +88,8 @@ Power BI Export Layer
 
 Power BI Dashboard
 ```
- 
+
+
 ---
 ## Project Roadmap
  
