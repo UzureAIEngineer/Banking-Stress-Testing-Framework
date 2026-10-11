@@ -211,8 +211,9 @@ Management wants to understand how portfolio performance will change under adver
 - Portfolio Segmentation
 - Risk Quantification
 
+
 ```
-```
+
 ## Key Risk Metrics
  The framework evaluates the impact of economic stress on:
  - Probability of Default (PD)
@@ -224,7 +225,7 @@ Management wants to understand how portfolio performance will change under adver
 - Capital Adequacy Impact
 - Portfolio Concentration Risk
 
-```
+
 ## Business KPIs Monitored
  
  - Total Portfolio Exposure
