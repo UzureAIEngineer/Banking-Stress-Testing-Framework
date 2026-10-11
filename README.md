@@ -1,3 +1,4 @@
+```
 # Banking Stress Testing Framework
  
 ## Overview
@@ -159,7 +160,7 @@ Power BI Dashboard
 - Microsoft Fabric
 - Automated Risk Insights
 
- 
+ ```
 ## Regulatory Context
  
 Stress testing has become an essential risk management practice for banks worldwide.
@@ -199,7 +200,7 @@ Management wants to understand how portfolio performance will change under adver
 - Microsoft Excel
 - Power BI
 
- 
+``` 
 ### Statistical Techniques
  - Logistic Regression
 - Scenario Analysis
@@ -207,7 +208,8 @@ Management wants to understand how portfolio performance will change under adver
 - Portfolio Segmentation
 - Risk Quantification
 
-
+```
+```
 ## Key Risk Metrics
  The framework evaluates the impact of economic stress on:
  - Probability of Default (PD)
@@ -219,9 +221,10 @@ Management wants to understand how portfolio performance will change under adver
 - Capital Adequacy Impact
 - Portfolio Concentration Risk
 
+```
 ## Business KPIs Monitored
  
-- Total Portfolio Exposure
+ - Total Portfolio Exposure
 - Expected Loss
 - Stressed Expected Loss
 - Default Rate
@@ -230,7 +233,7 @@ Management wants to understand how portfolio performance will change under adver
 - Product-wise Risk Contribution
 - Regulatory Capital Impact
 
-
+```
 ## Sample Data Sources
  
 The project uses representative banking datasets including:
@@ -245,6 +248,7 @@ The project uses representative banking datasets including:
 Sample files and layouts are available within the data folder.
 Show more lines
 
+```
  
 ## Stress Testing Methodology
  
