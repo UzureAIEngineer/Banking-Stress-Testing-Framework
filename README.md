@@ -38,7 +38,7 @@ The primary objectives of this project are:
 
 
 
-  ## End-to-End Architecture
+## End-to-End Architecture
 
 
 Portfolio Input Data
