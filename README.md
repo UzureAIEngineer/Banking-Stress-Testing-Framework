@@ -1,5 +1,6 @@
-```
+
 # Banking Stress Testing Framework
+```
  
 ## Overview
  
@@ -41,7 +42,7 @@ The primary objectives of this project are:
 ```
 ## End-to-End Architecture
 
-
+```
 
 Portfolio Input Data
 
