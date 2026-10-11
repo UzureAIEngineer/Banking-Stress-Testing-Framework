@@ -91,11 +91,11 @@ Power BI Export Layer
 Power BI Dashboard
 ```
 
+```
 
----
 ## Project Roadmap
 
-```
+
 ## Current Project Status
 
 ### Version 1 Completed ✅
@@ -162,7 +162,7 @@ Power BI Dashboard
 - Microsoft Fabric
 - Automated Risk Insights
 
- ```
+
 ## Regulatory Context
 
  ```
@@ -180,7 +180,6 @@ Common regulatory frameworks include:
  
 The framework developed in this project reflects common industry practices used for risk assessment and capital planning.
  
----
  
 ## Business Scenario
  
@@ -253,7 +252,7 @@ The project uses representative banking datasets including:
 Sample files and layouts are available within the data folder.
 Show more lines
 
-``` 
+
 ## Stress Testing Methodology
 ``` 
  ### Step 1: Portfolio Data Preparation
@@ -362,7 +361,7 @@ See:
 
 
 PowerBI/Dashboard_Screenshots/
-```
+
 
 ## Author
 ```
@@ -379,8 +378,8 @@ Skills:
 - Azure AI (Learning Path)
 - Generative AI (Learning Path)
 
-```
+
 - ### Disclaimer
-``` 
+
 This repository is intended for educational, portfolio, and demonstration purposes.
 
