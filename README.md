@@ -237,8 +237,8 @@ Management wants to understand how portfolio performance will change under adver
 - Product-wise Risk Contribution
 - Regulatory Capital Impact
 
-```
-```
+
+
 ## Sample Data Sources
  
 The project uses representative banking datasets including:
