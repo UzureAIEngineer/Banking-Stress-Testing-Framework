@@ -213,7 +213,7 @@ Management wants to understand how portfolio performance will change under adver
 
 
 ```
-
+```
 ## Key Risk Metrics
  The framework evaluates the impact of economic stress on:
  - Probability of Default (PD)
@@ -237,6 +237,7 @@ Management wants to understand how portfolio performance will change under adver
 - Product-wise Risk Contribution
 - Regulatory Capital Impact
 
+```
 ```
 ## Sample Data Sources
  
