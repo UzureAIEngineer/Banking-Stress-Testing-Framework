@@ -145,7 +145,7 @@ Power BI Dashboard
 ---
 
 ### Upcoming Enhancements
-
+```
 #### Version 2
 
 - PostgreSQL Migration
