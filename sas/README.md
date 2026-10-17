@@ -17,10 +17,67 @@ The framework demonstrates a structured approach to risk analytics commonly used
 
 ## Folder Structure
 
+## Folder Structure
+
 ```text
 sas/
-├── SAS_Scripts/
-└── README.md
+│
+├── README.md
+│
+├│
+└── SAS_Scripts/
+    │
+    ├── 01_Input_Validation.sas
+    │   ├── Data quality checks
+    │   ├── Missing value validation
+    │   └── Duplicate detection
+    │
+    ├── 02_Data_Preparation.sas
+    │   ├── Data transformation
+    │   ├── Standardization
+    │   └── Dataset creation
+    │
+    ├── 03_Risk_Segmentation.sas
+    │   ├── Risk banding
+    │   ├── Customer segmentation
+    │   └── Portfolio grouping
+    │
+    ├── 04_Scenario_Creation.sas
+    │   ├── Macroeconomic scenarios
+    │   ├── GDP stress
+    │   ├── Unemployment stress
+    │   └── Interest rate shocks
+    │
+    ├── 05_Scenario_Application.sas
+    │   ├── Scenario mapping
+    │   ├── Scenario adjustments
+    │   └── Stress application
+    │
+    ├── 06_PD_Stress_Impact.sas
+    │   ├── Stressed PD calculation
+    │   └── Default projections
+    │
+    ├── 07_LGD_Stress_Impact.sas
+    │   ├── Stressed LGD calculation
+    │   └── Loss severity estimation
+    │
+    ├── 08_ECL_Calculation.sas
+    │   ├── ECL computation
+    │   ├── PD × LGD × EAD
+    │   └── Scenario-level losses
+    │
+    ├── 09_Portfolio_Stress_Reporting.sas
+    │   ├── Portfolio analytics
+    │   ├── Stress testing reports
+    │   └── Executive summaries
+    │
+    └── 10_Export_For_PowerBI.sas
+        ├── Reporting datasets
+        ├── Dashboard exports
+        └── Power BI integration
+
+
+```
 ```
 
 ---
