@@ -17,7 +17,6 @@ The framework demonstrates a structured approach to risk analytics commonly used
 
 ## Folder Structure
 
-## Folder Structure
 
 ```text
 sas/
