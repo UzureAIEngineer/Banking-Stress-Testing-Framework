@@ -1,9 +1,14 @@
 ┌─────────────────────────────────────────────┐
-│           Source Portfolio Data             │
-│  Loans | Customers | Accounts | History     │
+│           Source Portfolio Data         
+│
+│  Loans | Customers | Accounts | History  
+│
 └─────────────────────┬───────────────────────┘
+
                       │
+                      
                       ▼
+                      
 ┌─────────────────────────────────────────────┐
 │         01_Input_Validation.sas             │
 │  Data Quality Checks                        │
