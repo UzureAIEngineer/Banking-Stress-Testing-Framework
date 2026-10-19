@@ -150,17 +150,23 @@ Future Roadmap:
 
 ## Project Roadmap
 
-### Version 1.0
+## Project Status
+
+Current Version: V1.2
 
 ✅ Portfolio Upload
 
-✅ Portfolio Analytics
+✅ Stress Testing Engine
 
-✅ Risk Distribution
+✅ ECL Calculation
 
-✅ ECL Summary
+✅ Risk Segmentation
 
-✅ AI Business Commentary
+✅ AI Explanation Engine
+
+✅ Executive Risk Commentary
+
+✅ Business Recommendations
 
 ---
 
