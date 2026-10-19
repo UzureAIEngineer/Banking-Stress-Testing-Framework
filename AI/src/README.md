@@ -2,6 +2,33 @@
 
 This folder contains the implementation of the Banking Stress Testing AI Assistant.
 
+
+
+
+## Application Flow
+
+```text
+Portfolio CSV
+      │
+      ▼
+app.py
+      │
+      ▼
+stress_engine.py
+      │
+      ▼
+PD, LGD, EAD, ECL
+      │
+      ▼
+ai_explainer.py
+      │
+      ▼
+Executive Commentary
+      │
+      ▼
+Streamlit Dashboard
+```
+
 ## Files
 
 ### app.py
