@@ -154,19 +154,27 @@ Future Roadmap:
 
 Current Version: V1.2
 
+## Current Features
+
 ✅ Portfolio Upload
 
-✅ Stress Testing Engine
+✅ Credit Risk Segmentation
+
+✅ Stress Testing
+
+✅ PD Calculation
+
+✅ LGD Calculation
 
 ✅ ECL Calculation
 
-✅ Risk Segmentation
+✅ AI Commentary Engine
 
-✅ AI Explanation Engine
+✅ Executive Risk Assessment
 
-✅ Executive Risk Commentary
+✅ Management Recommendations
 
-✅ Business Recommendations
+✅ Streamlit Dashboard
 
 ---
 
