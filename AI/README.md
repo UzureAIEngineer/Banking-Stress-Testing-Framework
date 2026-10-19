@@ -223,6 +223,12 @@ AI Assistant
 Power BI Reporting
 ```
 
+Version: V1.2
+
+Status: Complete
+
+Release Date: October 2026
+
 ---
 
 ## Author
