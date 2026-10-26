@@ -405,6 +405,12 @@ Senior Analytics Professional
 - Banking Analytics
 - Risk Analytics
 - Business Analysis
+- SAS
+- SQL
+- Python
+- Stress Testing
+- Data Validation
+- Reconciliation
 - Statistical Modeling
 - Power BI
 - Azure AI (Learning Path)
