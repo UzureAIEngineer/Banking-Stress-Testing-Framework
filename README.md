@@ -186,7 +186,7 @@ Power BI Dashboard
 
 ---
 
-#### Version 3 Completed ✅
+### Version 3 Completed ✅
 
 
 ✅ Python Migration
@@ -207,7 +207,7 @@ Power BI Dashboard
 
 
 ---
-#### Version 4 Completed ✅
+### Version 4 Completed ✅
 
 
 ✅ AI-driven insights
