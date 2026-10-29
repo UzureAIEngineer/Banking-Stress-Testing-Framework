@@ -472,6 +472,18 @@ Senior Analytics Professional
 - Power BI
 - Azure AI (Learning Path)
 - Generative AI (Learning Path)
+- IFRS9
+- Credit Risk
+- Retail Credit
+- Wholesale Credit
+- Capital Planning
+- Risk Forecasting
+- Portfolio Monitoring
+- Scenario Analysis
+- ECL
+- PD
+- LGD
+- Regulatory Stress Testing
 
 ---
 
