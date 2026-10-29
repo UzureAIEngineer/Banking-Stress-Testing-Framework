@@ -6,7 +6,7 @@ This project demonstrates an end-to-end Banking Stress Testing Framework designe
 
 The solution simulates macroeconomic shocks and estimates their impact on portfolio credit quality, Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), Expected Credit Loss (ECL), and overall capital requirements.
 
-This framework illustrates a real-world Banking Stress Testing use case utilizing SAS, Python, and AI-driven insights for portfolio analysis, forecasting, and regulatory risk assessment, with future enhancements planned for SQL/PostgreSQL integration, Azure AI, and Microsoft Fabric to support scalable enterprise risk analytics solutions.
+This project presents an end-to-end Banking Stress Testing and Credit Risk Analytics framework developed using SAS, Python, and AI-powered analytical capabilities, with a future roadmap encompassing SQL/PostgreSQL migration, Azure AI integration, and Microsoft Fabric adoption, mirroring the evolving technology landscape used by global financial institutions for stress testing, risk forecasting, and regulatory reporting.
 
 ---
 
