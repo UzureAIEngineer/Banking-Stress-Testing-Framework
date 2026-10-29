@@ -10,6 +10,39 @@ The project showcases a practical banking risk analytics use case using SAS, SQL
 
 ---
 
+### Key Skills
+
+- SAS
+- SQL
+- Banking Analytics
+- Risk Analytics
+- Business Analysis
+- SAS
+- SQL
+- Python
+- Stress Testing
+- Data Validation
+- Reconciliation
+- Statistical Modeling
+- Power BI
+- Azure AI (Learning Path)
+- Generative AI (Learning Path)
+- IFRS9
+- Credit Risk
+- Retail Credit
+- Wholesale Credit
+- Capital Planning
+- Risk Forecasting
+- Portfolio Monitoring
+- Scenario Analysis
+- ECL
+- PD
+- LGD
+- Regulatory Stress Testing
+- 
+
+---
+
 ## Business Problem
 
 Banks operate in uncertain economic environments where adverse events such as recessions, rising unemployment, high inflation, or financial crises can significantly impact borrower repayment behavior.
@@ -483,35 +516,6 @@ README.md
 
 Senior Analytics Professional
 
-### Skills
-
-- SAS
-- SQL
-- Banking Analytics
-- Risk Analytics
-- Business Analysis
-- SAS
-- SQL
-- Python
-- Stress Testing
-- Data Validation
-- Reconciliation
-- Statistical Modeling
-- Power BI
-- Azure AI (Learning Path)
-- Generative AI (Learning Path)
-- IFRS9
-- Credit Risk
-- Retail Credit
-- Wholesale Credit
-- Capital Planning
-- Risk Forecasting
-- Portfolio Monitoring
-- Scenario Analysis
-- ECL
-- PD
-- LGD
-- Regulatory Stress Testing
 
 ---
 
