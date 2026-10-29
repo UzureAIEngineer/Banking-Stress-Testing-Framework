@@ -1,6 +1,11 @@
+
 Project Objective
 
-100K Enterprise Portfolio
+200K Enterprise Portfolio
+
+100K Retail Portfolio
+
+100K Wholesale Portfolio
 
 Retail Portfolio
 
