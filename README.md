@@ -1,12 +1,32 @@
-# Banking Stress Testing Framework
+
+## Stress Testing Coverage
 
 ## Overview
 
-This project demonstrates an end-to-end Banking Stress Testing Framework designed to assess the resilience of a loan portfolio under adverse economic conditions.
+This project presents an end-to-end Banking Stress Testing and Credit Risk Analytics framework developed using SAS, Python, and AI-powered analytical capabilities, with a future roadmap encompassing SQL/PostgreSQL migration, Azure AI integration, and Microsoft Fabric adoption, mirroring the evolving technology landscape used by global financial institutions for stress testing, risk forecasting, and regulatory reporting.
+
+The framework is designed to support both Retail and Wholesale Credit Stress Testing portfolios.
+
+### Retail Credit Portfolios
+
+- Mortgage Loans
+- Personal Loans
+- Auto Loans
+- Credit Cards
+- Consumer Lending
+
+### Wholesale Credit Portfolios
+
+- Corporate Loans
+- Commercial Banking Exposure
+- SME Portfolios
+- Project Finance
+- Trade Finance
+
+The underlying stress testing methodology remains consistent across portfolio types while supporting different risk drivers, segmentation strategies, and stress assumptions.
 
 The solution simulates macroeconomic shocks and estimates their impact on portfolio credit quality, Probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), Expected Credit Loss (ECL), and overall capital requirements.
 
-This project presents an end-to-end Banking Stress Testing and Credit Risk Analytics framework developed using SAS, Python, and AI-powered analytical capabilities, with a future roadmap encompassing SQL/PostgreSQL migration, Azure AI integration, and Microsoft Fabric adoption, mirroring the evolving technology landscape used by global financial institutions for stress testing, risk forecasting, and regulatory reporting.
 
 ---
 
