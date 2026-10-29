@@ -10,35 +10,38 @@ The project showcases a practical banking risk analytics use case using SAS, SQL
 
 ---
 
-### Key Skills
+### Key Skills demonstrated
 
-- SAS
-- SQL
 - Banking Analytics
 - Risk Analytics
 - Business Analysis
-- SAS
-- SQL
-- Python
+- SAS Development
+- Python Development
+- SAS to Python Migration
+- Forecasting & Scenario Analysis
+- SQL/PostgreSQL
 - Stress Testing
-- Data Validation
+- Regulatory Reporting
+- Data Validation Frameworks
 - Reconciliation
 - Statistical Modeling
 - Power BI
 - Azure AI (Learning Path)
 - Generative AI (Learning Path)
 - IFRS9
-- Credit Risk
-- Retail Credit
+- Credit Risk Analytics
+- Retail Credit Portfolio Modelling
 - Wholesale Credit
 - Capital Planning
 - Risk Forecasting
 - Portfolio Monitoring
 - Scenario Analysis
-- ECL
-- PD
-- LGD
+- Expected Credit Loss (ECL)
+- Probability of Default (PD)
+- Loss Given Default (LGD)
 - Regulatory Stress Testing
+- Portfolio Risk Segmentation
+- Power BI Reporting
  
 
 ---
@@ -87,25 +90,6 @@ The primary objectives of this project are:
 - Support risk management decision-making
 - Demonstrate an end-to-end banking analytics workflow
 
----
-
-## Key Skills Demonstrated
-
-- Credit Risk Analytics
-- Stress Testing
-- Retail Credit Portfolio Modelling
-- SAS Development
-- Python Development
-- SAS to Python Migration
-- Forecasting & Scenario Analysis
-- Expected Credit Loss (ECL)
-- Probability of Default (PD)
-- Loss Given Default (LGD)
-- Regulatory Reporting
-- Data Validation Frameworks
-- Portfolio Risk Segmentation
-- Power BI Reporting
-  
 ---
 
 ## Production Control Framework
