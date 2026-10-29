@@ -1,11 +1,18 @@
 
 Project Objective
 
-200K Enterprise Portfolio
 
-100K Retail Portfolio
+200K Enterprise Banking Portfolio Dataset
 
-100K Wholesale Portfolio
+
+Retail Credit Portfolio      : 100,000 Records
+
+
+Wholesale Credit Portfolio   : 100,000 Records
+
+
+Total Portfolio              : 200,000 Records
+
 
 Retail Portfolio
 
