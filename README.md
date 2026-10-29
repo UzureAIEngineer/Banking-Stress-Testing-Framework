@@ -39,7 +39,7 @@ The project showcases a practical banking risk analytics use case using SAS, SQL
 - PD
 - LGD
 - Regulatory Stress Testing
-- 
+ 
 
 ---
 
