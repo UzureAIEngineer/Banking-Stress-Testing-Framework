@@ -1,37 +1,63 @@
+# V5 Statistical Risk Modelling
 
-Project Objective
+## Project Objective
 
+Develop an Enterprise Banking Statistical Risk Modelling Framework using:
 
-200K Enterprise Banking Portfolio Dataset
+- SAS
+- Python
+- Retail Credit Portfolio
+- Wholesale Credit Portfolio
 
+## Portfolio Overview
 
-Retail Credit Portfolio      : 100,000 Records
+| Portfolio | Records |
+|------------|---------|
+| Retail Credit | 100,000 |
+| Wholesale Credit | 100,000 |
+| Total Portfolio | 200,000 |
 
+## Dataset Features
 
-Wholesale Credit Portfolio   : 100,000 Records
+- Customer ID
+- Loan ID
+- Portfolio Type
+- Product Type
+- Credit Score
+- Annual Income
+- Loan Amount
+- Outstanding Balance
+- LTV
+- DTI
+- Years on Book
+- Delinquency Bucket
+- GDP Growth Rate
+- Unemployment Rate
+- Interest Rate
+- PD
+- LGD
+- EAD
 
+## Completed Modules
 
-Total Portfolio              : 200,000 Records
+### Module 01 – Enterprise Portfolio Generator
 
+Status: ✅ Completed
 
-Retail Portfolio
+Deliverables:
 
-Wholesale Portfolio
+- SAS Portfolio Generator
+- Python Validation Notebook
+- 200K Enterprise Dataset
+- Execution Logs
+- Validation Reports
+- PDF Evidence
 
-PD Modelling
+## Upcoming Modules
 
-LGD Modelling
-
-EAD Modelling
-
-ECL Forecasting
-
-SAS Statistical Models
-
-Python Statistical Models
-
-Model Validation
-
-Backtesting
-
-Expected Outputs
+- 02_PD_Model
+- 03_LGD_Model
+- 04_EAD_Model
+- 05_ECL_Forecasting
+- 06_Model_Validation
+- 07_Backtesting
