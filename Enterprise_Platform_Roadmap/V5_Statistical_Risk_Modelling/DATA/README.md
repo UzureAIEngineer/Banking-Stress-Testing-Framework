@@ -1,21 +1,25 @@
+# DATA
 
-### Module 01 Completed ✅
+## Files
 
-Enterprise Portfolio Generator
+### enterprise_portfolio_200k.csv
 
-Portfolio Size:
-- Retail Portfolio: 100,000 Records
-- Wholesale Portfolio: 100,000 Records
-- Total Portfolio: 200,000 Records
+Enterprise Banking Portfolio Dataset.
 
-Validation Completed:
-- Record Count Validation
-- Portfolio Distribution Validation
-- Product Distribution Validation
-- Statistical Summary Validation
-- Sample Data Verification
+Record Count:
 
-Deliverables:
-- enterprise_portfolio_200k.csv
-- 01_Enterprise_Portfolio_Generator.sas
-- 01_Enterprise_Portfolio_Generator_Results.pdf
+- Retail Portfolio: 100,000
+- Wholesale Portfolio: 100,000
+
+Total Records:
+
+- 200,000
+
+Purpose:
+
+- PD Modelling
+- LGD Modelling
+- EAD Modelling
+- ECL Forecasting
+- Backtesting
+- Model Validation
