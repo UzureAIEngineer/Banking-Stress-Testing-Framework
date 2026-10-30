@@ -1,17 +1,16 @@
 # Screenshots
 
-Purpose:
+Repository for execution evidence screenshots.
 
-Store execution evidence screenshots for:
-
-- SAS Execution Logs
-- Python Notebook Execution
-- Validation Outputs
-- Model Training Results
-- Backtesting Results
-
-Current Status:
+Current Status
 
 Module 01 evidence consolidated into PDF reports.
 
-Future modules may store screenshots here if required.
+Future screenshots will include:
+
+- SAS Execution Logs
+- Python Validation Outputs
+- PD Model Results
+- LGD Model Results
+- ECL Forecasting Results
+- Model Validation Evidence
