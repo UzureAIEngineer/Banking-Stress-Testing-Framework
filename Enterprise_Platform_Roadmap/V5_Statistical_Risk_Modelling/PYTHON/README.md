@@ -1,14 +1,14 @@
 # Python Implementation
 
-## Completed
+## Completed Modules
 
-### 01_Enterprise_Portfolio_Generator.ipynb ✅
+### 01_Enterprise_Portfolio_Generator ✅
 
-Purpose:
+Purpose
 
-Read and validate the SAS-generated Enterprise Banking Portfolio Dataset.
+Read and validate SAS-generated Enterprise Banking Portfolio Dataset.
 
-Validation Performed:
+Validation Performed
 
 - Record Count Validation
 - Portfolio Distribution Validation
@@ -17,15 +17,14 @@ Validation Performed:
 - Descriptive Statistics
 - Sample Data Verification
 
-Artifacts:
+Artifacts
 
-- Jupyter Notebook
-- Python Results PDF
+- 01_Enterprise_Portfolio_Generator.ipynb
+- 01_Enterprise_Portfolio_Generator_Results_Python.pdf
 
-## Planned
+## Upcoming Modules
 
 - 02_PD_Model.ipynb
 - 03_LGD_Model.ipynb
 - 04_EAD_Model.ipynb
 - 05_ECL_Forecasting.ipynb
-- 06_Model_Validation.ipynb
