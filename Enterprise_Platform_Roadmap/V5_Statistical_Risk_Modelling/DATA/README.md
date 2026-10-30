@@ -1,25 +1,24 @@
 # DATA
 
-## Files
+## Dataset
 
-### enterprise_portfolio_200k.csv
+enterprise_portfolio_200k.csv
 
-Enterprise Banking Portfolio Dataset.
+## Portfolio Composition
 
-Record Count:
+Retail Credit Portfolio: 100,000 Records
 
-- Retail Portfolio: 100,000
-- Wholesale Portfolio: 100,000
+Wholesale Credit Portfolio: 100,000 Records
 
-Total Records:
+Total Portfolio: 200,000 Records
 
-- 200,000
+## Usage
 
-Purpose:
+Dataset used for:
 
-- PD Modelling
-- LGD Modelling
-- EAD Modelling
+- PD Models
+- LGD Models
+- EAD Analysis
 - ECL Forecasting
-- Backtesting
 - Model Validation
+- Backtesting
