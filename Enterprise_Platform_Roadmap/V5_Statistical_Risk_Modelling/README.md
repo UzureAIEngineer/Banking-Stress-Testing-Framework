@@ -1,8 +1,21 @@
 # V5 Statistical Risk Modelling
 
+## Status
+
+Current Progress: Module 01 Completed ✅
+
 ## Project Objective
 
-Develop an Enterprise Banking Statistical Risk Modelling Framework using:
+1) Build a modern banking risk modelling platform to support:
+
+- PD Modelling
+- LGD Modelling
+- EAD Modelling
+- ECL Forecasting
+- Model Validation
+- Backtesting
+
+2) Develop an Enterprise Banking Statistical Risk Modelling Framework using:
 
 - SAS
 - Python
