@@ -1,23 +1,27 @@
 # OUTPUT
 
-This folder contains execution evidence reports generated from SAS and Python implementations.
+Execution evidence reports generated from SAS and Python implementations.
 
 ## Available Reports
 
-### 01_Enterprise_Portfolio_Generator_Results_SAS.pdf
+### SAS Report
 
-SAS execution report containing:
+01_Enterprise_Portfolio_Generator_Results_SAS.pdf
 
-- Portfolio validation
-- Record counts
-- Product distributions
-- Summary statistics
+Includes:
 
-### 01_Enterprise_Portfolio_Generator_Results_Python.pdf
+- Record Count Validation
+- Portfolio Distribution
+- Product Distribution
+- Summary Statistics
 
-Python validation report containing:
+### Python Report
 
-- Data import validation
-- Portfolio verification
-- Missing value checks
-- Statistical summaries
+01_Enterprise_Portfolio_Generator_Results_Python.pdf
+
+Includes:
+
+- Dataset Validation
+- Portfolio Verification
+- Missing Value Checks
+- Descriptive Statistics
